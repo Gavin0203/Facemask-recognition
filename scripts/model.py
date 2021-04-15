@@ -41,4 +41,4 @@ model_saved=model.fit_generator(
         validation_data=test_set,
         )
 
-model.save('mymodel.h5',model_saved)
+model.save('hismodel.h5',model_saved)
